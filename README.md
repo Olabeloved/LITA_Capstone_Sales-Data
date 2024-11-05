@@ -6,10 +6,15 @@
 
 #### Thank you for your time! I am looking forward to receiving feedback from you soon
 
-## Introduction
-#### This project presents the result of sales data analysis 
+## Context
+#### This project presents the result of sales data analysis i
 
 ## Data Description
+
+#### This dataset provides insights into the sales pattern of 100 customers, covering aspects such as region, order id, Customer name, product bought, unit price for each product sold, quantity of product sold, and the total sales of each product.
+
+#### The insights from the data will be valuable for understanding behavioural trends and demographic of each customer with respect to a product, making it useful for marketers and finance researchers
+
 
 ## Methodology
 
