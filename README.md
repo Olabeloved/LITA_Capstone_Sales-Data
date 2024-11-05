@@ -7,6 +7,7 @@
 #### Thank you for your time! I am looking forward to receiving feedback from you soon
 
 ## Introduction
+#### This project presents the result of sales data analysis 
 
 ## Data Description
 
