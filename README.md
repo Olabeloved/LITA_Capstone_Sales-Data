@@ -49,7 +49,7 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
 
 ## Data Analysis
 1. Excel:
- - 	Used the ``` AVERAGEIF ``` functions to calculate the average sales per product and the ``` SUMIF ``` function to calculate the total revenue by region
+ - 	Used the ``` AVERAGEIF ``` function to calculate the average sales per product and the ``` SUMIF ``` function to calculate the total revenue by region
 
   ![Sales Data Table](https://github.com/user-attachments/assets/6deb1fbf-68be-499f-8bb8-07fa2c55520c)
   
@@ -63,7 +63,7 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
 
   ![Sales Data Excel Dashboard](https://github.com/user-attachments/assets/b4057e5a-11f0-460f-9e83-7171789d058b)
 
-   
+
 2. SQL: wrote queries to extract key insights
    ### SQL Query
 - Total Sales per Product Category
