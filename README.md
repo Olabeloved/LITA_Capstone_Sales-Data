@@ -2,7 +2,7 @@
 ## Welcome to my Portfolio!
 This Project is submitted in partial fulfillment of the requirement for a certification in Data Analysis. In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links to the dashboard and reports I have created using various tools such as Power BI, Excel, and SQL. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision-makers to understand the insights and take action.
 #### Thank you for your time! I am looking forward to receiving feedback from you soon.
----
+
 [Context](#context)
 
 [Data Sources](#data-sources)
@@ -17,11 +17,12 @@ This Project is submitted in partial fulfillment of the requirement for a certif
 
 [Conclusion](#conclusion)
 
+---
 ## Context
 This project presents the result of the comprehensive analysis of a Sales dataset using Excel, SQL, and Power BI to uncover key business insights. The primary goal was to understand sales patterns, product performance, and regional contributions to overall revenue. The insights from the data will be valuable for understanding behavioural trends, and demographics of each customer, making it useful for marketers and finance researchers
 
 ## Data Sources
-The primary source of data used is the Incubator Hub. It has the following columns: region, order id, Customer name, product bought, unit price for each product sold, quantity of product sold, and the total sales of each product.
+The primary source of data used is the Incubator Hub.
 
 ## Data Description
 This dataset provides insights into the sales pattern of 500 customers, it includes the following column:
@@ -34,9 +35,9 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
 - UnitPrice
 
 ## Tools Used
- 1. Microsoft Excel: Removed and cleaned any inconsistencies in the data and handled missing values. Also created pivot tables to organize and summarize data
- 2. SQL: Loaded the cleaned dataset into SQL Server, wrote, and validated queries to extract insights directly from the dataset.
- 3. Power BI: Created interactive dashboards to showcase findings and visualizations
+ 1. Microsoft Excel: Removed and cleaned any inconsistencies in the data and handled missing values. Also created pivot tables to organize and summarize data. [Download Here](https://www.microsoft.com)
+ 2. SQL: Loaded the cleaned dataset into SQL Server, wrote, and validated queries to extract insights directly from the dataset. [Download Here](https://www.microsoft.com)
+ 3. Power BI: Created interactive dashboards to showcase findings and visualizations [Download Here](https://www.microsoft.com)
 
 ## Data Preparations and Cleaning
 - Data Quality Check: The data types of each column were changed to their respective data types
