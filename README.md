@@ -56,11 +56,11 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
   
 
  - Created a report dashboard
-
+ - 
   ![Sales Data Excel Dashboard](https://github.com/user-attachments/assets/b4057e5a-11f0-460f-9e83-7171789d058b)
 
    
-3. SQL: wrote queries to extract key insights
+2. SQL: wrote queries to extract key insights
    ### SQL Query
 - Total Sales per Product Category
   ```SQL
@@ -119,7 +119,41 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
   	else 0
   end
   ```
-3. Power BI
+3. Power BI: created a dashboard that included sales overview, top-performing products, and regional breakdowns
 
-## Conclusion
+![SalesData Dashboard](https://github.com/user-attachments/assets/6690f047-c7ba-4105-b286-46b9d9ec8ced)
+
+
+## Insights:
+1. Customer and Product Overview:
+- There are 500 customers, 6 unique products, and total revenue of 2,101,090 spread across 4 regions.
+2. Product Sales by Region:
+- West Region: "Hat" has the highest sales, while "Gloves" and "Socks" show lower sales.
+- East Region: "Jacket" and "Shirt" are among the top-selling products.
+- South Region: "Shoes" has the highest sales, with "Gloves" and "Socks" following.
+- North Region: "Shirt" is the top seller, with "Jacket" and "Hat" also performing well.
+3. Unit Price by Region:
+- North has the highest average unit price (94K or 32.48%), suggesting a possible premium market, while the East and South regions have lower unit prices.
+4. Sales by Region:
+- South contributes the most to total sales (928K or 44.17%), followed by West (23.23%) and North (18.42%). This suggests that South is a high-performing region.
+5. Sales by Product:
+- "Shoes" are the top-selling product category, contributing 20.19% of total sales, followed by "Socks" (23.11%) and "Hat" (15.05%).
+
+## Conclusions
+- South is the Leading Sales Region: South has the highest total sales, indicating strong customer engagement or a high market share for the company's products.
+- Shoes and Socks Are Popular Products: Shoes are the best-selling product, followed by Socks, making these essential items in the inventory.
+- North Region Has Higher Unit Prices: North has the highest unit price, suggesting either a higher willingness to pay among customers or the presence of higher-priced items compared to other regions.
+
+## Recommendations
+1. Increase Inventory for High-Demand Products: Given that "Shoes" and "Socks" are top sellers, ensure sufficient inventory levels to meet demand and avoid stockouts in regions where these are popular.
+   
+2. Focus Marketing Efforts in the South Region: As South is the highest-grossing region, consider further targeted marketing campaigns in this region to sustain and grow market share.
+
+3. Adjust Product Pricing or Promotion in Lower-Performing Regions: For the East and West regions, consider offering promotional deals on lower-performing products to drive sales and improve their performance.
+
+4. Expand Product Variety in North: Since North has a higher unit price, it may be a good market for introducing premium product options or exclusive items to capture customers willing to spend more.
+
+5. Tailor Product Offerings by Region: For example, since "Hat" sells well in the West and "Shoes" in the South, consider customizing product mixes for each region based on customer preferences.
+
+6. Explore Opportunities for Growth in the West Region: While the West has a moderate sales volume, focused promotions or new product introductions could help it grow its market share and reduce dependence on high-performing regions. 
 
