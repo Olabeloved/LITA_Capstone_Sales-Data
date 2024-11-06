@@ -127,8 +127,6 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
 
 ![SalesData Dashboard](https://github.com/user-attachments/assets/6690f047-c7ba-4105-b286-46b9d9ec8ced)
 
-![SalesData Dashboard](https://github.com/user-attachments/assets/310030b3-5a73-433d-b8d6-ce99f0b620e4)
-
 
 ## Insights
 1. Customer and Product Overview:
