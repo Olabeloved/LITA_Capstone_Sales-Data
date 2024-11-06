@@ -1,4 +1,4 @@
-# Project Title: Sales Data Analysis
+![Sales Data Table](https://github.com/user-attachments/assets/7eaa963d-538b-4e13-a4c8-24cfc7c4f01a)# Project Title: Sales Data Analysis
 ## Welcome to my Portfolio!
 This Project is submitted in partial fulfillment of the requirement for a certification in Data Analysis. In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links to the dashboard and reports I have created using various tools such as Power BI, Excel, and SQL. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision-makers to understand the insights and take action.
 #### Thank you for your time! I am looking forward to receiving feedback from you soon.
@@ -44,8 +44,21 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
 - Duplicates: the dataset contained over a thousand duplicates, it was detected using conditional formatting, and the duplicates were removed using the remove duplicates in the data tab
 
 ## Data Analysis
-1. Excel
-2. SQL: wrote queries to extract key insights
+1. Excel:
+ - 	Used the ``` AVERAGEIF ``` functions to calculate the average sales per product and the ``` SUMIF ``` function to calculate the total revenue by region
+
+  ![Sales Data Table](https://github.com/user-attachments/assets/6deb1fbf-68be-499f-8bb8-07fa2c55520c)
+
+ - Used pivot tables to summarize total sales by product, region, and month
+
+  ![Sales Data Pivot Table](https://github.com/user-attachments/assets/d20b7fd1-4ecf-4945-bf49-d7298a98469b)
+
+ - Created a report dashboard
+
+  ![Sales Data Excel Dashboard](https://github.com/user-attachments/assets/b4057e5a-11f0-460f-9e83-7171789d058b)
+
+   
+3. SQL: wrote queries to extract key insights
    ### SQL Query
 - Total Sales per Product Category
   ```SQL
