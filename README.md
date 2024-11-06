@@ -15,7 +15,11 @@ This Project is submitted in partial fulfillment of the requirement for a certif
 
 [Data Analysis](#data-analysis)
 
-[Conclusion](#conclusion)
+[Insights](insights)
+
+[Conclusions](#conclusions)
+
+[Recommendations](#recommendations)
 
 ---
 ## Context
@@ -124,7 +128,7 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
 ![SalesData Dashboard](https://github.com/user-attachments/assets/6690f047-c7ba-4105-b286-46b9d9ec8ced)
 
 
-## Insights:
+## Insights
 1. Customer and Product Overview:
 - There are 500 customers, 6 unique products, and total revenue of 2,101,090 spread across 4 regions.
 2. Product Sales by Region:
