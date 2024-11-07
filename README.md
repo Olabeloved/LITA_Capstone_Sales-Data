@@ -49,19 +49,19 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
 
 ## Data Analysis
 1. Excel:
- - 	Used the ``` AVERAGEIF ``` function to calculate the average sales per product and the ``` SUMIF ``` function to calculate the total revenue by region
+ - Used the ``` AVERAGEIF ``` function to calculate the average sales per product and the ``` SUMIF ``` function to calculate the total revenue by region
 
   ![Sales Data Table](https://github.com/user-attachments/assets/6deb1fbf-68be-499f-8bb8-07fa2c55520c)
   
 
- - Used pivot tables to summarize total sales by product, region, and month
+- Used pivot tables to summarize total sales by product, region, and month
 
-  ![Sales Data Pivot Table](https://github.com/user-attachments/assets/d20b7fd1-4ecf-4945-bf49-d7298a98469b)
+ ![Sales Data Pivot Table](https://github.com/user-attachments/assets/d20b7fd1-4ecf-4945-bf49-d7298a98469b)
   
 
- - Created a report dashboard
+- Created a report dashboard
 
-  ![Sales Data Excel Dashboard](https://github.com/user-attachments/assets/b4057e5a-11f0-460f-9e83-7171789d058b)
+ ![Sales Data Excel Dashboard](https://github.com/user-attachments/assets/b4057e5a-11f0-460f-9e83-7171789d058b)
 
 
 2. SQL: wrote queries to extract key insights
@@ -125,12 +125,12 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
   ```
 3. Power BI: created a dashboard that included sales overview, top-performing products, and regional breakdowns
 
-![SalesData Dashboard](https://github.com/user-attachments/assets/6690f047-c7ba-4105-b286-46b9d9ec8ced)
+ ![SalesData Dashboard](https://github.com/user-attachments/assets/6690f047-c7ba-4105-b286-46b9d9ec8ced)
 
 
 ## Insights
 1. Customer and Product Overview:
-- There are 500 customers, 6 unique products, and total revenue of 2,101,090 spread across 4 regions.
+- There are 500 customers, 6 unique products, and revenue of 2,101,090 spread across 4 regions.
 2. Product Sales by Region:
 - West Region: "Hat" has the highest sales, while "Gloves" and "Socks" show lower sales.
 - East Region: "Jacket" and "Shirt" are among the top-selling products.
