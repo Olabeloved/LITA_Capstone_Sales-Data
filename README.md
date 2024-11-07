@@ -52,6 +52,9 @@ This dataset provides insights into the sales pattern of 500 customers, it inclu
  - 	Used the ``` AVERAGEIF ``` function to calculate the average sales per product and the ``` SUMIF ``` function to calculate the total revenue by region
 
   ![Sales Data Table](https://github.com/user-attachments/assets/6deb1fbf-68be-499f-8bb8-07fa2c55520c)
+
+
+  ![image alt](https://github.com/Olabeloved/LITA_Capstone_Project-Sales-Data/blob/b8b8a6b600877992dab868fec564ff20fa63024e/Sales%20Data%20Table.png)
   
 
  - Used pivot tables to summarize total sales by product, region, and month
